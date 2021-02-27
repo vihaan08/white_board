@@ -1,0 +1,9 @@
+.paint-canvas{
+    border: 2px solid black;
+    display: block;
+    margin: 1em;
+    }
+    
+    .color-picker{
+    margin: 1em;
+    }
